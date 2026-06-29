@@ -1,1 +1,15 @@
+<section class="screen">
+  <img 
+    src="images/BerryBelle.jpg" 
+    alt="BerryBelle, a cute pink strawberry milk carton mascot for Berry Vibes Studio"
+    class="mascot-image"
+  >
 
+  <p>
+    Every studio needs a tiny guardian.
+  </p>
+
+  <p>
+    Mine became BerryBelle: cheerful, pastel, curious, dramatic in a cute way, and always carrying sparkle.
+  </p>
+</section>
